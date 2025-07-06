@@ -19,7 +19,7 @@ Mini_Whatsapp/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/MONGO3.git
+git clone https://github.com/sarvesh2846/Mini-WhatsApp.git
 cd MONGO3
 ```
 
